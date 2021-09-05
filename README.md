@@ -1,7 +1,7 @@
 # Ubuntu-SSL-WildCard-Let-s-Encrypt
 Memasang SSL WildCard dari Let's Encrypt
 
-![SSL_WildCard](/Ubuntu-SSL-WildCard-Let-s-Encrypt/raw/main/SSL%20WildCard.png)
+![SSL_WildCard](/SSL%20WildCard.png)
 
 Video Ubuntu 18 04 2 LTS Install SSL WildCard Lets Encrypt 05092021: https://youtu.be/_HkNo2V9zFI
 
